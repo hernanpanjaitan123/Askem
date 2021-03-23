@@ -1,0 +1,3 @@
+Sistem Crud yang saya buat ini adalah Sistem Izin Bermalam Sederhana.
+Untuk Run nya bapak/ibu
+http://127.0.0.1:8000/siswa
